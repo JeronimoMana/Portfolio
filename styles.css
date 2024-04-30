@@ -7,11 +7,21 @@
     text-decoration: none;
 }
 
-/* Generales */
+.height-400 {
+    height: 400px;
+}
 
+.border-radius-top-25 {
+    border-radius: 25px 25px 0 0;
+}
+
+/* Generales */
+/* Section 1 */
 .gradient-color {
     background: linear-gradient(to right, #F7DF1E, #61DAFB, #E34F26, #264de4);
     background-clip: text;
     color: transparent;
     font-weight: 700;
 }
+
+/* Section 1 */
