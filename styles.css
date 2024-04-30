@@ -1,0 +1,17 @@
+/* Generales */
+.list-style-none {
+    list-style: none;
+}
+
+.decoration-none {
+    text-decoration: none;
+}
+
+/* Generales */
+
+.gradient-color {
+    background: linear-gradient(to right, #F7DF1E, #61DAFB, #E34F26, #264de4);
+    background-clip: text;
+    color: transparent;
+    font-weight: 700;
+}
